@@ -36,7 +36,7 @@ To-do list:
 
 ## Getting Started
 
-  Download source code from https://github.com/AlwinAlphabot/Pix-OTT
+  Download source code from  https://github.com/lathavamsi/pix-ott
   - Import the project in Eclipse/Springtoolsuite IDE.
   - Add a driver manager in library.
   - Create an user table, movie table, topfivemovie table, history table and wishlist table with columns mentioned in DAO files in pixott schema.
